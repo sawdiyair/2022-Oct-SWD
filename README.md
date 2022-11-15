@@ -2,7 +2,7 @@
 
 * testing for my classes
 
-#Installaion
+# Installaion
 
 * from blabla
 * update blabla
